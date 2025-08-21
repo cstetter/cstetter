@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Christian and I am an agricultural economist by training. I work as a postdoc at ETH Zurich. I am interested in AI, ML methods to enhance sustainable and resilient agriculture.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+  
 <!--
 **cstetter/cstetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
